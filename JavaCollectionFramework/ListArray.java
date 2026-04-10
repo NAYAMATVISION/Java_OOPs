@@ -1,5 +1,5 @@
 package JavaCollectionFramework;
-import java.util.*;
+// import java.util.*;
 public class ListArray {
     public static void main(String[] args) {
         // ArrayList<Integer> al = new ArrayList<>(); //intitial capacity 10
