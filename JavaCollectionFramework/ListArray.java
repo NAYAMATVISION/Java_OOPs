@@ -30,9 +30,5 @@ public class ListArray {
         // a1.funA();
 
 
-
-
-
-
     }
 }
