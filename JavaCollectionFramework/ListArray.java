@@ -28,7 +28,5 @@ public class ListArray {
         // Object obj = al.get(3);
         // A a1 = (A)obj;
         // a1.funA();
-
-
-    }
+        }
 }
